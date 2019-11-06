@@ -43,9 +43,9 @@ start tesla_supercharger
 
 ## Screenshots
 
-![1](https://github.com/Boostvolt/images/blob/master/4816cd-GTA5%202017-09-24%2021-08-07.jpg?raw=true)
+![1](https://github.com/Boostvolt/images/blob/master/ModelS_1.jpg?raw=true)
 
-![2](https://github.com/Boostvolt/images/blob/master/4816cd-GTA5%202017-09-24%2021-23-10.jpg?raw=true)
+![2](https://github.com/Boostvolt/images/blob/master/ModelS_2.jpg?raw=true)
 
 
 [wtf_ev]: https://github.com/boostvolt/tesla_ev
