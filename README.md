@@ -21,7 +21,7 @@ FiveM Tesla Model S with custom handling
 - [Tesla Roadster](https://github.com/boostvolt/tesla_roadster)
 - [Tesla Semi](https://github.com/boostvolt/tesla_semi)
 
-## Download & Installation
+## Download
 
 This resource was developed alongside [tesla_ev](https://github.com/boostvolt/tesla_ev), [tesla_supercharger](https://github.com/boostvolt/tesla_supercharger) and [tesla_redis](https://github.com/boostvolt/redis). This resource works without them, but you might be interested in installing them altogether.
 
