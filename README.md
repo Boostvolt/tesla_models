@@ -19,6 +19,7 @@ FiveM Tesla Model S with custom handling
 - [Tesla Model Y](https://github.com/boostvolt/tesla_model3)
 - [Tesla Cybertruck](https://github.com/boostvolt/tesla_cybertruck)
 - [Tesla Roadster](https://github.com/boostvolt/tesla_roadster)
+- [Tesla Semi](https://github.com/boostvolt/tesla_semi)
 
 ## Download & Installation
 
