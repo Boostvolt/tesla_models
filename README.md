@@ -16,7 +16,7 @@ None
 
 ## Download & Installation
 
-This resource was developed alongside [tesla_ev], [tesla_supercharger]. This resource works without them, but you might be interested in installing them altogether.
+This resource was developed alongside [tesla_ev](https://github.com/boostvolt/tesla_ev), [tesla_supercharger](https://github.com/boostvolt/tesla_supercharger). This resource works without them, but you might be interested in installing them altogether.
 
 ### Using Git
 ```
@@ -46,10 +46,6 @@ start tesla_supercharger
 ![1](https://github.com/Boostvolt/tesla_models/blob/master/img/ModelS_1.jpg)
 
 ![2](https://github.com/Boostvolt/tesla_models/blob/master/img/ModelS_2.jpg)
-
-
-[wtf_ev]: https://github.com/boostvolt/tesla_ev
-[wtf_tesla_supercharger]: https://github.com/boostvolt/tesla_supercharger
 
 ## License
 
